@@ -1,5 +1,5 @@
 ---
-title: Markus Nordhaus
+title: Markus Nordhaus, Dipl. Inf.
 role: Solution Architect and Pilot
 avatar_filename: profile.jpeg
 bio: My interests include content management systems and digital experiance
@@ -29,7 +29,7 @@ organizations:
     url: https://e-Spirit.com
 education:
   courses:
-    - course: Diplom Informatiker (eq. M.Sc.) Information and Communication Managment
+    - course: Information and Communication Managment
       institution: Wilhelm Büchner University Darmstadt, Germany
       year: 2017
     - course: Intercultural Communications and Management
