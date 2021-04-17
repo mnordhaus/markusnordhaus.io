@@ -22,7 +22,7 @@ social:
       header: true
 organizations:
   - name: e-Spirit Inc
-    url: https:/e-Spirit.com
+    url: https://e-Spirit.com
 education:
   courses:
     - course: Diplom Informatiker (eq. M.Sc.) Information and Communication Managment
