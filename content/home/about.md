@@ -9,7 +9,7 @@ author: admin
 design:
   background:
     image: background-about.jpeg
-    image_darken: 0.6
+    image_darken: 0.3
     image_parallax: true
 
     
