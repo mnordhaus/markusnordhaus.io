@@ -8,6 +8,6 @@ active: true
 author: admin
 design:
   background:
-    image: assets/media/background-about.jpeg
+    image: background-about.jpeg
     image_darken: null
 ---
