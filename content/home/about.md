@@ -11,6 +11,7 @@ design:
     image: background-about.jpeg
     image_darken: 0.5
     image_parallax: true
+    image_position: bottom center
     text_color_light: true
 
  
