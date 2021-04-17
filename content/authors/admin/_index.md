@@ -18,19 +18,21 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/markus-nordhaus/
+    display:
+      header: true
 organizations:
   - name: e-Spirit Inc
     url: https:/e-Spirit.com
 education:
   courses:
     - course: Diplom Informatiker (eq. M.Sc.) Information and Communication Managment
-      institution: Wilhelm Büchner University Darmstadt
+      institution: Wilhelm Büchner University Darmstadt, Germany
       year: 2017
     - course: Intercultural Communications and Management
-      institution: California State University Sacramento
+      institution: California State University Sacramento, USA
       year: 2008
     - course: Enterprise Information Systems
-      institution: University of Gelsenkirchen
+      institution: University of Gelsenkirchen, Germany
       year: 2005
 email: ""
 superuser: true
