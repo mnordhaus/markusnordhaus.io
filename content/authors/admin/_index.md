@@ -11,7 +11,7 @@ interests:
   - agile methods
   - aviation
   - economics and politics
-  - traval and intercultural concens
+  - travel and intercultural exchange
 social:
   - icon: envelope
     icon_pack: fas
