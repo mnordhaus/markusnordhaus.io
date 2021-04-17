@@ -9,5 +9,5 @@ author: admin
 design:
   background:
     image: background-about.jpeg
-    image_darken: null
+    image_darken: 1
 ---
