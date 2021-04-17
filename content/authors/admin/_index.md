@@ -5,12 +5,13 @@ avatar_filename: profile.jpeg
 bio: My interests include content management systems and digital experiance
   solutions, software engineering, agile methods and aviation.
 interests:
-  - content management and digital experience plattforms
+  - CMS and DXP
   - computer science
   - software architecture
   - agile methods
   - aviation
-  - economics
+  - economics and politics
+  - traval and intercultural concens
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,6 +19,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/markus-nordhaus/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/markusgoesusa/
     display:
       header: true
 organizations:
