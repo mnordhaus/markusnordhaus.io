@@ -38,7 +38,7 @@ education:
     - course: Enterprise Information Systems
       institution: University of Gelsenkirchen, Germany
       year: 2005
-email: ""
+email: "markus@markusnordhaus.us"
 superuser: true
 highlight_name: true
 ---
