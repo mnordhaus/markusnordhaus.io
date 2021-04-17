@@ -1,7 +1,7 @@
 ---
 title: Markus Nordhaus
 role: Solution Architect and Pilot
-avatar_filename: https://scontent-bos3-1.xx.fbcdn.net/v/t1.6435-9/121125524_3460866663962509_5426643891706108621_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=12ynaVz85gUAX-MmFpd&_nc_ht=scontent-bos3-1.xx&oh=8d53bb8d15a17c5c328c72df83b34009&oe=609FA323
+avatar_filename: 
 bio: My interests include content management systems and digital experiance
   solutions, software engineering, agile methods and aviation.
 interests:
