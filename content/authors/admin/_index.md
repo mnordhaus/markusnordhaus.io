@@ -49,8 +49,9 @@ highlight_name: true
 Markus Nordhaus holds a Diploma (eq. M.Sc.) in computer science from the Wilhelm Büchner University Darmstadt, is a
 Senior IT-Consultant and Solution Architect with more than 20 years of experience in the Software Industry.
 
-He implemented e-Commerce Systems, Content Management Systems and Digital Experiences for large international 
-enterprises, and enabled developers, architects, and it-project managers - worldwide.
+He implemented with e-Commerce and Content Management Systems comprehensive Digital Experiences for large international
+enterprises. As a trainer, mentor, and coach, he enabled software developers, architects, and project managers -
+worldwide. 
 
 Markus loves to travel and shows the same professionalism and attention to detail when he is not working on a computer or in front of an 
 audience while flying airplanes as an enthusiastic and continuously improving Pilot.
