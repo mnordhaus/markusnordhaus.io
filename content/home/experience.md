@@ -113,8 +113,8 @@ experience:
     date_end: '2001-04-30'
     description: |2-
       Responsibilities include:
-      * Design and implementing an acounting software to track duty times
-      * Duties as a airforce solder 
+      * Design and implementing an acounting software to log activites and duty times
+      * Duties as a airforce soldier 
  
   - title: Intern and later State Certified Information Technology Assistant (part time)
     company: 'Pater & Co. Organisation und Informationstechnik GmbH'
