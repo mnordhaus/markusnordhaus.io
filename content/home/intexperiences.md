@@ -10,7 +10,7 @@ headless: true
 weight: 41
 
 title: International Experience
-subtitle: Markus has worked with people from more than 38 cultures and has personally visited almost all of these countries.
+subtitle: Markus has worked with people from more than 38 cultures and traveled to almost all of there countries.
 design:
   columns: '1'
 ---
