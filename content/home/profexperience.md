@@ -131,7 +131,7 @@ experience:
 design:
   columns: '2'
 ---
-As a Senior Consultant for the e-Spirit AG and the beginning of 2019 as a Solution Architect for the e-Spirit Inc., Markus
+As a Senior Consultant with the e-Spirit AG and the beginning of 2019 as a Solution Architect with the e-Spirit Inc., Markus
 Nordhaus is responsible for the enablement, supervision, and support of developers, architectures, and technical project
 managers in North America and worldwide.
 
