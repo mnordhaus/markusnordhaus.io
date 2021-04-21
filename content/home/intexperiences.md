@@ -15,7 +15,7 @@ design:
   columns: '1'
 ---
 ![World Map of visited countries or countries worked with remotely](home/worldmap.png)
-From Germany, he flew small aircraft to almost every corner of Europe. Since the beginning of 2019, he has been flying 
-around the United States.
+From Germany, he flew small aircraft to almost every corner of Europe. Since the beginning of 2019, he flies through the 
+USA.
 
-Markus appreciates learning about new cultures and thereby seeing the world from different perspectives.
+Markus enjoys learning about new cultures and thereby seeing the world from different perspectives.
