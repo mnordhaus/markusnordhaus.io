@@ -2,6 +2,7 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+widget_id: profexperience
 
 # This file represents a page section.
 headless: true
@@ -88,8 +89,8 @@ experience:
     date_start: '2002-11-01'
     date_end: '2006-03-30'
     description: |2-
-      Responsibilities include:
-      * Design and implementing of e-Commerce and Content Managment Solutions
+      Responsibilities included:
+      * Design and implementation of e-Commerce and Content Managment Solutions
       * e-commerce consulting and user Trainings
       * Technologies: PHP, MySQL - various frameworks and plattforms
   
@@ -101,7 +102,7 @@ experience:
     date_start: '2002-07-01'
     date_end: '2002-08-31'
     description: |2-
-      Responsibilities include:
+      Responsibilities included:
       * Implementing ERP Modules
   
   - title: Obergefreiter
@@ -112,7 +113,7 @@ experience:
     date_start: '2000-07-01'
     date_end: '2001-04-30'
     description: |2-
-      Responsibilities include:
+      Responsibilities included:
       * Design and implementing an acounting software to log activites and duty times
       * Duties as a airforce soldier 
  
@@ -124,15 +125,15 @@ experience:
     date_start: '2000-03-01'
     date_end: '2002-04-30'
     description: |2-
-      Responsibilities include:
+      Responsibilities included:
       * Implementing ERP Modules
   
 design:
   columns: '2'
 ---
-As a Senior Consultant for the e-Spirit AG and the beginning of 2019 as a Solution Architect for the e-Spirit Inc., he
-is responsible for the enablement, supervision, and support of developers, architectures, and technical project managers
-in North America and worldwide.
+As a Senior Consultant for the e-Spirit AG and the beginning of 2019 as a Solution Architect for the e-Spirit Inc., Markus
+Nordhaus is responsible for the enablement, supervision, and support of developers, architectures, and technical project
+managers in North America and worldwide.
 
 At e-Spirit Inc., Markus Nordhaus maintains the technical communication to the German headquarters. He is responsible
 for the knowledge transfer and as a mentor for the onboarding of new employees. He is also responsible for the
