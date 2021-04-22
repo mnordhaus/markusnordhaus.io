@@ -140,4 +140,4 @@ for the knowledge transfer and as a mentor for the onboarding of new employees. 
 requirements engineering and architectural design of FirstSpirit based customer solutions.
 
 Having over eight years of experience with e-Spirit's FirstSpirit Digital Experience Plattform, he is also the most
-senior expert for North America in that field.
+senior expert in North America in that field.

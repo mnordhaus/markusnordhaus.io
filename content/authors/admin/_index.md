@@ -28,6 +28,11 @@ social:
     link: https://www.instagram.com/markusgoesusa/
     display:
       header: true
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/markusnordhaus/
+    display:
+      header: true
 organizations:
   - name: e-Spirit Inc
     url: https://e-Spirit.com

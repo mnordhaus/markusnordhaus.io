@@ -5,8 +5,7 @@
 
 title: Markus Nordhaus # Website name
 baseurl: 'https://markusnordhaus.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
-
+copyright: '© {year} Markus Nordhaus' # Footer text, e.g. '© {year} Me'
 ############################
 ## LANGUAGE
 ############################

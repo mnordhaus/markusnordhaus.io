@@ -46,7 +46,10 @@ contact_links:
     icon_pack: fab
     name: instagram
     link: https://www.instagram.com/markusgoesusa/
-
+  - icon: youtube
+    icon_pack: fab
+    name: YouTube
+    link: https://www.youtube.com/markusnordhaus/
 # Site header
 
 main_menu:
@@ -55,7 +58,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -92,9 +95,9 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 abstract_length: 135
@@ -148,3 +151,4 @@ cms:
 icon:
   pack:
     ai: true
+i_am_a_sponsor: true
